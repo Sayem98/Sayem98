@@ -77,7 +77,7 @@
 
 
 
-## 📊 Stats (auto-dark theme)
+## 📊 Stats
 
 <p align="left">
   <!-- GitHub Stats -->
