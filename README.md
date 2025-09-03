@@ -99,7 +99,7 @@
 
 <!-- Streak (optional) -->
 <p align="left">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Sayem98)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Sayem98&theme=github-dark-blue&hide_border=false&border_radius=8&card_width=500)](https://git.io/streak-stats)
 </p>
 
 ---
