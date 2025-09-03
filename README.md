@@ -27,8 +27,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Sayem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Sayem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sayem98&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayem98&layout=compact&theme=tokyonight)
 
 ---
 ## 🌐 Connect with Me
