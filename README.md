@@ -23,7 +23,7 @@
 
 </div>
 
----
+
 
 ## 🚀 About Me
 - 💻 Full-stack developer building scalable **Web3 & FinTech** apps  
@@ -31,7 +31,7 @@
 - 🛠 Currently shipping **Green Wealth** & **Digiheir**  
 - 🌱 Exploring **decentralized apps, zk-friendly patterns, and AI integrations**
 
----
+
 
 ## 🧰 Tech Toolbox
 
@@ -66,14 +66,14 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat">
 </details>
 
----
+
 
 ## ✨ Highlights
 - ✅ Built multi-role dashboards with **Next.js + Tailwind + ability-based UI**
 - 🔐 On-chain logic in **Solidity**, dApp integration with **ethers.js / wagmi**
 - 📈 Clean APIs with **Express/Node**, production-ready CI/CD and docs
 
----
+
 
 
 
@@ -97,22 +97,22 @@
   </picture>
 </p>
 
----
+
 ## 🔥 Streak Stats
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Sayem98&theme=github-dark-blue&hide_border=false&border_radius=8&card_width=500" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Sayem98)](https://git.io/streak-stats" alt="GitHub Streak" />
   </a>
 </p>
 
----
+
 
 ## 🏆 Achievements
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=Sayem98&theme=onedark&no-frame=true&row=1&column=6&margin-w=8" alt="trophies" />
 </p>
 
----
+
 
 ## 🌐 Connect
 <p>
