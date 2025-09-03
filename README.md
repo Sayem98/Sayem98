@@ -97,9 +97,16 @@
   </picture>
 </p>
 
-<!-- Streak (optional) -->
-<p align="left">
- [![GitHub Streak](https://streak-stats.demolab.com?user=Sayem98&theme=github-dark-blue&hide_border=false&border_radius=8&card_width=500)](https://git.io/streak-stats)
+<p align="center">
+  <!-- GitHub Streak -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Sayem98&theme=github-dark-blue&hide_border=false&border_radius=8&card_width=500" alt="GitHub Streak" />
+  </a>
+  <br/><br/>
+  <!-- Typing Banner -->
+  <a href="https://github.com/Sayem98">
+    <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=28&pause=800&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sayem+%F0%9F%91%8B;Full-stack+%7C+Web3+%7C+FinTech+Builder;Node.js+%7C+Next.js+%7C+Solidity+%7C+Ethers.js;Shipping+Green+Wealth+%26+Digiheir" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
