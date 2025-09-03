@@ -99,7 +99,7 @@
 
 <!-- Streak (optional) -->
 <p align="left">
-  <img alt="Streak" src="https://streak-stats.demolab.com?user=Sayem98&theme=tokyonight&hide_border=false" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Sayem98)](https://git.io/streak-stats)
 </p>
 
 ---
